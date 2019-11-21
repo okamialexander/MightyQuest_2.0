@@ -1,0 +1,12 @@
+h1 {
+  color: #f2be58;font-size: 80px;
+}
+
+body {
+  font-family: fantasy; font-size: 25px; font-stretch:
+}
+h1 {
+  background-image: linear-gradient(red, black);
+}
+h1 {
+  text-shadow: 2px 2px #080000;
